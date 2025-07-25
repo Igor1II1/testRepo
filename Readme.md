@@ -1,5 +1,3 @@
 Goodbye World!
 
-# Hello World!!!!!!!
-
-# JoyBoy?
+# end World!!!!!!!
